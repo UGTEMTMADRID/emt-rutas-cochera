@@ -1,0 +1,26 @@
+[
+  {
+    "linea": "35",
+    "cochera": "Carabanchel",
+    "tipo": "encierro",
+    "nombre": "Encierro por Oporto",
+    "descripcion": "Ruta de encierro línea 35...",
+    "coordenadas": [
+      [40.3920, -3.7130],
+      [40.3915, -3.7135],
+      ...más puntos...
+    ]
+  },
+  {
+    "linea": "35",
+    "cochera": "Carabanchel",
+    "tipo": "salida",
+    "nombre": "Salida por Eugenia de Montijo",
+    "descripcion": "Ruta de salida línea 35...",
+    "coordenadas": [
+      [40.3885, -3.7165],
+      [40.3890, -3.7160],
+      ...más puntos...
+    ]
+  }
+]
