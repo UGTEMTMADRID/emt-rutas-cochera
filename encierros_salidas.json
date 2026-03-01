@@ -1,10 +1,10 @@
 [
   {
-    "linea": "35",
-    "cochera": "Sanchinarro",
+    "linea": "Pruebas",
+    "cochera": "Carabanchel",
     "tipo": "encierro",
-    "nombre": "Encierro por Oporto",
-    "descripcion": "Ruta de encierro línea 35...",
+    "nombre": "Encierro por ...",
+    "descripcion": "Esquema linea pruebas",
     "coordenadas": [
       [40.3920, -3.7130],
       [40.3915, -3.7135],
