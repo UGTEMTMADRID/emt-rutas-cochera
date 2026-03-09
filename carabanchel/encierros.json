@@ -1,0 +1,12 @@
+[
+  {
+    "linea": "35",
+    "nombre": "Encierro por Oporto",
+    "descripcion": "Ruta de encierro línea 35 por Av. de Oporto",
+    "coordenadas": [
+      [40.3920, -3.7130],
+      [40.3915, -3.7135],
+      [40.3910, -3.7140]
+    ]
+  }
+]
