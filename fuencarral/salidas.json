@@ -25242,8 +25242,8 @@
   },
   {
     "linea": "147",
-    "nombre": "147 C.O FUENCARRAL-Bº EL PILAR",
-    "descripcion": "147 C.O FUENCARRAL-Bº EL PILAR",
+    "nombre": "C.O. FUENCARRAL - Bº EL PILAR",
+    "descripcion": "Salida línea 147 desde C.O. Fuencarral hacia Bº El Pilar",
     "coordenadas": [
       [
         40.47638259100359,
@@ -25697,8 +25697,8 @@
   },
   {
     "linea": "147",
-    "nombre": "147 C.O FUENCARRAL-CALLAO",
-    "descripcion": "147 C.O FUENCARRAL-CALLAO",
+    "nombre": "C.O. FUENCARRAL - CALLAO",
+    "descripcion": "Salida línea 147 desde C.O. Fuencarral hacia Callao",
     "coordenadas": [
       [
         40.4763520524701,
@@ -26336,8 +26336,8 @@
   },
   {
     "linea": "149",
-    "nombre": "149 C.O FUENCARRAL-PLAZA CASTILLA",
-    "descripcion": "149 C.O FUENCARRAL-PLAZA CASTILLA",
+    "nombre": "C.O. FUENCARRAL - PLAZA CASTILLA",
+    "descripcion": "Salida línea 149 desde C.O. Fuencarral hacia Plaza Castilla",
     "coordenadas": [
       [
         40.47638949179412,
@@ -26563,8 +26563,8 @@
   },
   {
     "linea": "149",
-    "nombre": "149 C.O FUENCARRAL-TRIBUNAL",
-    "descripcion": "149 C.O FUENCARRAL-TRIBUNAL",
+    "nombre": "C.O. FUENCARRAL - TRIBUNAL",
+    "descripcion": "Salida línea 149 desde C.O. Fuencarral hacia Tribunal",
     "coordenadas": [
       [
         40.4763520524701,
@@ -26994,8 +26994,8 @@
   },
   {
     "linea": "160",
-    "nombre": "160 C.O FUENCARRAL-ARAVACA",
-    "descripcion": "160 C.O FUENCARRAL-ARAVACA",
+    "nombre": "C.O. FUENCARRAL - ARAVACA",
+    "descripcion": "Salida línea 160 desde C.O. Fuencarral hacia Aravaca",
     "coordenadas": [
       [
         40.47638259100359,
@@ -28280,9 +28280,9 @@
     ]
   },
   {
-    "linea": "160n",
-    "nombre": "160n C.O FUENCARRAL-MONCLOA",
-    "descripcion": "160n C.O FUENCARRAL-MONCLOA",
+    "linea": "160",
+    "nombre": "C.O. FUENCARRAL - MONCLOA",
+    "descripcion": "Salida línea 160 desde C.O. Fuencarral hacia Moncloa",
     "coordenadas": [
       [
         40.47638259100359,
@@ -29367,9 +29367,9 @@
     ]
   },
   {
-    "linea": "161a",
-    "nombre": "161a C.O FUENCARRAL-ESTACIÓN ARAVACA",
-    "descripcion": "161a C.O FUENCARRAL-ESTACIÓN ARAVACA",
+    "linea": "161",
+    "nombre": "C.O. FUENCARRAL - ESTACIÓN ARAVACA",
+    "descripcion": "Salida línea 161 desde C.O. Fuencarral hacia Estación Aravaca",
     "coordenadas": [
       [
         40.47638259100359,
@@ -30882,9 +30882,9 @@
     ]
   },
   {
-    "linea": "161n",
-    "nombre": "161n C.O FUENCARRAL-MONCLOA",
-    "descripcion": "161n C.O FUENCARRAL-MONCLOA",
+    "linea": "161",
+    "nombre": "C.O. FUENCARRAL - MONCLOA",
+    "descripcion": "Salida línea 161 desde C.O. Fuencarral hacia Moncloa",
     "coordenadas": [
       [
         40.47638259100359,
@@ -31970,8 +31970,8 @@
   },
   {
     "linea": "162",
-    "nombre": "162 C.O FUENCARRAL-EL BARRIAL",
-    "descripcion": "162 C.O FUENCARRAL-EL BARRIAL",
+    "nombre": "C.O. FUENCARRAL - EL BARRIAL",
+    "descripcion": "Salida línea 162 desde C.O. Fuencarral hacia El Barrial",
     "coordenadas": [
       [
         40.47638259100359,
@@ -33344,9 +33344,9 @@
     ]
   },
   {
-    "linea": "162n",
-    "nombre": "162n C.O FUENCARRAL-MONCLOA",
-    "descripcion": "162n C.O FUENCARRAL-MONCLOA",
+    "linea": "162",
+    "nombre": "C.O. FUENCARRAL - MONCLOA",
+    "descripcion": "Salida línea 162 desde C.O. Fuencarral hacia Moncloa",
     "coordenadas": [
       [
         40.47638259100359,
@@ -34420,8 +34420,8 @@
   },
   {
     "linea": "163",
-    "nombre": "163_C_O_FUENCARRAL-EL_PLANTIO",
-    "descripcion": "163_C_O_FUENCARRAL-EL_PLANTIO",
+    "nombre": "C.O. FUENCARRAL - EL PLANTÍO",
+    "descripcion": "Salida línea 163 desde C.O. Fuencarral hacia El Plantío",
     "coordenadas": [
       [
         40.47638259100359,
@@ -35895,8 +35895,8 @@
   },
   {
     "linea": "163",
-    "nombre": "163_C_O_FUENCARRAL-Est__ARAVACA",
-    "descripcion": "163_C_O_FUENCARRAL-Est__ARAVACA",
+    "nombre": "C.O. FUENCARRAL - ESTACIÓN ARAVACA",
+    "descripcion": "Salida línea 163 desde C.O. Fuencarral hacia Estación Aravaca",
     "coordenadas": [
       [
         40.47638259100359,
@@ -37698,8 +37698,8 @@
   },
   {
     "linea": "361",
-    "nombre": "361_C_O_FUENCARRAL-ATOCHA_RENFE",
-    "descripcion": "361_C_O_FUENCARRAL-ATOCHA_RENFE",
+    "nombre": "C.O. FUENCARRAL - ATOCHA RENFE",
+    "descripcion": "Salida línea 361 desde C.O. Fuencarral hacia Atocha Renfe",
     "coordenadas": [
       [
         40.4763520524701,
@@ -38240,9 +38240,9 @@
     ]
   },
   {
-    "linea": "361a",
-    "nombre": "361a_C_O_FUENCARRAL-MONCLOA",
-    "descripcion": "361a_C_O_FUENCARRAL-MONCLOA",
+    "linea": "361",
+    "nombre": "C.O. FUENCARRAL - MONCLOA",
+    "descripcion": "Salida línea 361 desde C.O. Fuencarral hacia Moncloa",
     "coordenadas": [
       [
         40.47638259100359,
@@ -39324,8 +39324,8 @@
   },
   {
     "linea": "363",
-    "nombre": "363_C_O_FUENCARRAL-ARGUELLES",
-    "descripcion": "363_C_O_FUENCARRAL-ARGUELLES",
+    "nombre": "C.O. FUENCARRAL - ARGÜELLES",
+    "descripcion": "Salida línea 363 desde C.O. Fuencarral hacia Argüelles",
     "coordenadas": [
       [
         40.4763520524701,
@@ -39855,8 +39855,8 @@
   },
   {
     "linea": "363",
-    "nombre": "363_C_O_FUENCARRAL-PUERTA_TOLEDO",
-    "descripcion": "363_C_O_FUENCARRAL-PUERTA_TOLEDO",
+    "nombre": "C.O. FUENCARRAL - PUERTA DE TOLEDO",
+    "descripcion": "Salida línea 363 desde C.O. Fuencarral hacia Puerta De Toledo",
     "coordenadas": [
       [
         40.4763520524701,
@@ -40441,9 +40441,9 @@
     ]
   },
   {
-    "linea": "503N3",
-    "nombre": "503_N3_C_O_FUENCARRAL-CANILLAS",
-    "descripcion": "503_N3_C_O_FUENCARRAL-CANILLAS",
+    "linea": "503",
+    "nombre": "N3 C.O. FUENCARRAL - CANILLAS",
+    "descripcion": "Salida línea 503 desde C.O. Fuencarral hacia Canillas",
     "coordenadas": [
       [
         40.4763526663396,
@@ -41148,9 +41148,9 @@
     ]
   },
   {
-    "linea": "503N3",
-    "nombre": "503_N3_C_O_FUENCARRAL-CIBELES",
-    "descripcion": "503_N3_C_O_FUENCARRAL-CIBELES",
+    "linea": "503",
+    "nombre": "N3 C.O. FUENCARRAL - CIBELES",
+    "descripcion": "Salida línea 503 desde C.O. Fuencarral hacia Cibeles",
     "coordenadas": [
       [
         40.4763520524701,
@@ -41651,9 +41651,9 @@
     ]
   },
   {
-    "linea": "503N3",
-    "nombre": "503_N3_p_C_O_FUENCARRAL-FERIA_DE_MADRID",
-    "descripcion": "503_N3_p_C_O_FUENCARRAL-FERIA_DE_MADRID",
+    "linea": "503",
+    "nombre": "N3 C.O. FUENCARRAL - FERIA DE MADRID",
+    "descripcion": "Salida línea 503 desde C.O. Fuencarral hacia Feria De Madrid",
     "coordenadas": [
       [
         40.47633815307076,
@@ -42182,9 +42182,9 @@
     ]
   },
   {
-    "linea": "520N20",
-    "nombre": "520_N20_C_O_FUENCARRAL-PITIS",
-    "descripcion": "520_N20_C_O_FUENCARRAL-PITIS",
+    "linea": "520",
+    "nombre": "N20 C.O. FUENCARRAL - PITIS",
+    "descripcion": "Salida línea 520 desde C.O. Fuencarral hacia Pitis",
     "coordenadas": [
       [
         40.48018681662523,
@@ -43141,9 +43141,9 @@
     ]
   },
   {
-    "linea": "520aN20",
-    "nombre": "520a_N20_C_O_FUENCARRAL-CIBELES",
-    "descripcion": "520a_N20_C_O_FUENCARRAL-CIBELES",
+    "linea": "520",
+    "nombre": "N20 C.O. FUENCARRAL - CIBELES",
+    "descripcion": "Salida línea 520 desde C.O. Fuencarral hacia Cibeles",
     "coordenadas": [
       [
         40.4763520524701,
@@ -43640,9 +43640,9 @@
     ]
   },
   {
-    "linea": "521aN21",
-    "nombre": "521a_N21_C_O_FUENCARRAL-ARROYO_FRESNO",
-    "descripcion": "521a_N21_C_O_FUENCARRAL-ARROYO_FRESNO",
+    "linea": "521",
+    "nombre": "N21 C.O. FUENCARRAL - ARROYO FRESNO",
+    "descripcion": "Salida línea 521 desde C.O. Fuencarral hacia Arroyo Fresno",
     "coordenadas": [
       [
         40.48018681662523,
@@ -44355,9 +44355,9 @@
     ]
   },
   {
-    "linea": "521aN21",
-    "nombre": "521a_N21_C_O_FUENCARRAL-CIBELES",
-    "descripcion": "521a_N21_C_O_FUENCARRAL-CIBELES",
+    "linea": "521",
+    "nombre": "N21 C.O. FUENCARRAL - CIBELES",
+    "descripcion": "Salida línea 521 desde C.O. Fuencarral hacia Cibeles",
     "coordenadas": [
       [
         40.4763520524701,
@@ -44882,9 +44882,9 @@
     ]
   },
   {
-    "linea": "522N22",
-    "nombre": "522_N22_C_O_FUENCARRAL-CIBELES",
-    "descripcion": "522_N22_C_O_FUENCARRAL-CIBELES",
+    "linea": "522",
+    "nombre": "N22 C.O. FUENCARRAL - CIBELES",
+    "descripcion": "Salida línea 522 desde C.O. Fuencarral hacia Cibeles",
     "coordenadas": [
       [
         40.4763520524701,
@@ -45345,9 +45345,9 @@
     ]
   },
   {
-    "linea": "522N22",
-    "nombre": "522_N22_p_C_O_FUENCARRAL-Bº_LA_PAZ",
-    "descripcion": "522_N22_p_C_O_FUENCARRAL-Bº_LA_PAZ",
+    "linea": "522",
+    "nombre": "N22 C.O. FUENCARRAL - Bº LA PAZ",
+    "descripcion": "Salida línea 522 desde C.O. Fuencarral hacia Bº La Paz",
     "coordenadas": [
       [
         40.47637081600345,
@@ -45768,9 +45768,9 @@
     ]
   },
   {
-    "linea": "523N23",
-    "nombre": "523_N23_C_O_FUENCARRAL-CIBELES",
-    "descripcion": "523_N23_C_O_FUENCARRAL-CIBELES",
+    "linea": "523",
+    "nombre": "N23 C.O. FUENCARRAL - CIBELES",
+    "descripcion": "Salida línea 523 desde C.O. Fuencarral hacia Cibeles",
     "coordenadas": [
       [
         40.4763520524701,
@@ -46139,9 +46139,9 @@
     ]
   },
   {
-    "linea": "523N23",
-    "nombre": "523_N23_C_O_FUENCARRAL-MONTECARMELO",
-    "descripcion": "523_N23_C_O_FUENCARRAL-MONTECARMELO",
+    "linea": "523",
+    "nombre": "N23 C.O. FUENCARRAL - MONTECARMELO",
+    "descripcion": "Salida línea 523 desde C.O. Fuencarral hacia Montecarmelo",
     "coordenadas": [
       [
         40.4763368894279,
@@ -46730,9 +46730,9 @@
     ]
   },
   {
-    "linea": "528N28",
-    "nombre": "528_N28_C_O_FUENCARRAL-ARAVACA",
-    "descripcion": "528_N28_C_O_FUENCARRAL-ARAVACA",
+    "linea": "528",
+    "nombre": "N28 C.O. FUENCARRAL - ARAVACA",
+    "descripcion": "Salida línea 528 desde C.O. Fuencarral hacia Aravaca",
     "coordenadas": [
       [
         40.47638259100359,
@@ -48017,9 +48017,9 @@
     ]
   },
   {
-    "linea": "528aN28",
-    "nombre": "528a_N28_C_O_FUENCARRAL-MONCLOA",
-    "descripcion": "528a_N28_C_O_FUENCARRAL-MONCLOA",
+    "linea": "528",
+    "nombre": "N28 C.O. FUENCARRAL - MONCLOA",
+    "descripcion": "Salida línea 528 desde C.O. Fuencarral hacia Moncloa",
     "coordenadas": [
       [
         40.47638259100359,
@@ -49084,9 +49084,9 @@
     ]
   },
   {
-    "linea": "529NC1",
-    "nombre": "529_NC1_C_O_FUENCARRAL-ATOCHA",
-    "descripcion": "529_NC1_C_O_FUENCARRAL-ATOCHA",
+    "linea": "529",
+    "nombre": "NC1 C.O. FUENCARRAL - ATOCHA",
+    "descripcion": "Salida línea 529 desde C.O. Fuencarral hacia Atocha",
     "coordenadas": [
       [
         40.4763520524701,
@@ -49643,9 +49643,9 @@
     ]
   },
   {
-    "linea": "529NC1",
-    "nombre": "529_NC1_C_O_FUENCARRAL-CUATRO_CAMINOS",
-    "descripcion": "529_NC1_C_O_FUENCARRAL-CUATRO_CAMINOS",
+    "linea": "529",
+    "nombre": "NC1 C.O. FUENCARRAL - CUATRO CAMINOS",
+    "descripcion": "Salida línea 529 desde C.O. Fuencarral hacia Cuatro Caminos",
     "coordenadas": [
       [
         40.47638949179412,
@@ -50038,9 +50038,9 @@
     ]
   },
   {
-    "linea": "530NC2",
-    "nombre": "530_NC2_C_O_FUENCARRAL-ATOCHA",
-    "descripcion": "530_NC2_C_O_FUENCARRAL-ATOCHA",
+    "linea": "530",
+    "nombre": "NC2 C.O. FUENCARRAL - ATOCHA",
+    "descripcion": "Salida línea 530 desde C.O. Fuencarral hacia Atocha",
     "coordenadas": [
       [
         40.4763520524701,
@@ -50597,9 +50597,9 @@
     ]
   },
   {
-    "linea": "530NC2",
-    "nombre": "530_NC2_C_O_FUENCARRAL-CUATRO_CAMINOS",
-    "descripcion": "530_NC2_C_O_FUENCARRAL-CUATRO_CAMINOS",
+    "linea": "530",
+    "nombre": "NC2 C.O. FUENCARRAL - CUATRO CAMINOS",
+    "descripcion": "Salida línea 530 desde C.O. Fuencarral hacia Cuatro Caminos",
     "coordenadas": [
       [
         40.4763715078039,
