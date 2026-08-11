@@ -105,14 +105,7 @@
         -3.7258263
       ]
     ],
-    "vozPuntos": [
-      {
-        "lat": 40.370839,
-        "lng": -3.715598,
-        "texto": "Gira a la izquierda en la avenida de los poblados",
-        "radio": 50
-      }
-    ]
+    "vozPuntos": []
   },
   {
     "linea": "6",
