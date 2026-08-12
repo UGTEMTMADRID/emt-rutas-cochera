@@ -110,55 +110,64 @@
         "lat": 40.369583,
         "lng": -3.715589,
         "texto": "Continuamos todo recto en dirección avenida de los poblados",
-        "radio": 50
+        "radio": 50,
+        "dir": "recto"
       },
       {
         "lat": 40.371365,
         "lng": -3.715568,
         "texto": "Sigue recto",
-        "radio": 50
+        "radio": 50,
+        "dir": "recto"
       },
       {
         "lat": 40.372999390919695,
         "lng": -3.715589046478272,
         "texto": "Gira a la izquierda en la avenida de los poblados",
-        "radio": 50
+        "radio": 50,
+        "dir": "recto"
       },
       {
         "lat": 40.373898,
         "lng": -3.718164,
         "texto": "Continua recto por el carril izquierdo para girar a cocheras",
-        "radio": 50
+        "radio": 50,
+        "dir": "recto"
       },
       {
         "lat": 40.373735,
         "lng": -3.721104,
         "texto": "Mantente a la izquierda para tomar la calle de la cochera",
-        "radio": 50
+        "radio": 50,
+        "dir": "recto"
       },
       {
         "lat": 40.372901,
         "lng": -3.722777,
         "texto": "Sigue todo recto y gira a la derecha",
-        "radio": 50
+        "radio": 50,
+        "dir": "recto"
       },
       {
         "lat": 40.370907,
         "lng": -3.722842,
         "texto": "Gira ahora a derecha",
-        "radio": 50
+        "radio": 50,
+        "dir": "recto"
       },
       {
         "lat": 40.370596,
         "lng": -3.724859,
         "texto": "En el cruce gira a la derecha",
-        "radio": 50
+        "radio": 50,
+        "dir": "recto"
       },
       {
         "lat": 40.370874,
         "lng": -3.726211,
         "texto": "Entra a cocheras, enciende las luces del autobus",
-        "radio": 50
+        "radio": 50,
+        "dir": "recto"
       }
     ]
   },
